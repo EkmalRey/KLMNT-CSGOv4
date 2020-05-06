@@ -1,0 +1,2 @@
+-tickrate 128 -novid -nojoy -high -fullscreen +mat_disable_fancy_blending 1 +cl_forcepreload 1 
++r_dynamic 0 -limitvsconst -console +exec klamonitev4
